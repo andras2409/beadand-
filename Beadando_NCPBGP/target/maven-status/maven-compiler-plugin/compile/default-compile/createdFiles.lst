@@ -1,0 +1,7 @@
+com\mycom\beadando_ncpbgp\JakartaRestConfiguration.class
+business\UserLog.class
+com\mycom\beadando_ncpbgp\resources\JakartaEE9Resource.class
+layout\UserLayout.class
+service\UserService.class
+business\User.class
+business\UserStatusEnum.class
